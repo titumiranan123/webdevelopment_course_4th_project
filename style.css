@@ -1,0 +1,11 @@
+* {
+    font-family: "Volkhov", serif;
+}
+
+.singlecard {
+    height: 200px;
+}
+
+.singlecard img {
+    height: 80px;
+}
